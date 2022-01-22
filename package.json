@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "iso8601-duration": "^1.2.0",
     "md5": "^2.3.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "object-hash": "^2.0.3",
     "pg": "^8.3.0",
     "postgres-migrations": "^4.0.3",
