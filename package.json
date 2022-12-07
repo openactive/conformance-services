@@ -27,7 +27,7 @@
     "@sentry/node": "^5.20.1",
     "ajv": "^6.12.3",
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "iso8601-duration": "^1.2.0",
     "md5": "^2.3.0",
     "node-fetch": "^2.6.1",
