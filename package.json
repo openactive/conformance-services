@@ -37,7 +37,7 @@
     "rrule": "^2.6.4"
   },
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.4"
   },
   "nodemonConfig": {
