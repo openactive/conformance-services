@@ -34,7 +34,7 @@
     "object-hash": "^2.0.3",
     "pg": "^8.3.0",
     "postgres-migrations": "^4.0.3",
-    "rrule": "^2.6.4"
+    "rrule": "^2.7.1"
   },
   "devDependencies": {
     "mocha": "^7.1.2",
