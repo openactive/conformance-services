@@ -36,6 +36,10 @@ If you don't have write access to the repo:
 
 Changes should be made by forking this repo, and making changes on a branch in your fork. When you're ready to submit your changes for review, open a Pull Request. 
 
+## Developer Certificate of Origin (DCO) 
+
+We use DCOs to ensure that we're able to use contributions. See the [GitHub documentation on DCOs](https://github.com/apps/dco) for more information. 
+
 
 ### Branch naming
 
